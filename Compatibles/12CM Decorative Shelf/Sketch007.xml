@@ -29,7 +29,7 @@
         <Constrain Name="" Type="2" Value="0" First="4" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="14" Value="0" First="-3" FirstPos="1" Second="-4" SecondPos="1" Third="4" ThirdPos="2" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="13" Value="0" First="0" FirstPos="3" Second="4" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
-        <Constrain Name="" Type="6" Value="18" First="0" FirstPos="3" Second="1" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="7.714019298553467" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="6" Value="32" First="0" FirstPos="3" Second="1" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="7.714019298553467" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="6" Value="14" First="0" FirstPos="1" Second="0" SecondPos="2" Third="-2000" ThirdPos="0" LabelDistance="7.714019298553467" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="13" Value="0" First="5" FirstPos="3" Second="4" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="5" Value="1.570796326794897" First="6" FirstPos="1" Second="9" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
@@ -81,43 +81,43 @@
       <GeometryList count="10">
         <Geometry  type="Part::GeomArcOfCircle" id="6" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
-          <ArcOfCircle CenterX="-51.25180995201199" CenterY="20.99999999999993" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="6.999999999999999" StartAngle="1.570796326794897" EndAngle="4.71238898038469"/>
+          <ArcOfCircle CenterX="-52.29927378001341" CenterY="20.99999999999993" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="6.999999999999999" StartAngle="1.570796326794896" EndAngle="4.71238898038469"/>
         </Geometry>
         <Geometry  type="Part::GeomArcOfCircle" id="7" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
-          <ArcOfCircle CenterX="-33.25180995201199" CenterY="20.99999999999993" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="6.999999999999999" StartAngle="4.71238898038469" EndAngle="7.853981633974483"/>
+          <ArcOfCircle CenterX="-20.29927378001341" CenterY="20.99999999999993" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="6.999999999999999" StartAngle="4.712388980384689" EndAngle="7.853981633974484"/>
         </Geometry>
         <Geometry  type="Part::GeomLineSegment" id="8" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
-          <LineSegment StartX="-51.25180995201199" StartY="13.99999999999993" StartZ="0" EndX="-33.25180995201199" EndY="13.99999999999993" EndZ="0"/>
+          <LineSegment StartX="-52.29927378001341" StartY="13.99999999999993" StartZ="0" EndX="-20.29927378001341" EndY="13.99999999999993" EndZ="0"/>
         </Geometry>
         <Geometry  type="Part::GeomLineSegment" id="9" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
-          <LineSegment StartX="-51.25180995201199" StartY="27.99999999999993" StartZ="0" EndX="-33.25180995201199" EndY="27.99999999999994" EndZ="0"/>
+          <LineSegment StartX="-52.29927378001341" StartY="27.99999999999993" StartZ="0" EndX="-20.29927378001341" EndY="27.99999999999993" EndZ="0"/>
         </Geometry>
         <Geometry  type="Part::GeomLineSegment" id="10" ref="" refIndex="-1" flags="0">
           <Construction value="1"/>
-          <LineSegment StartX="63.966408" StartY="20.99999999999994" StartZ="0" EndX="-64" EndY="20.99999999999994" EndZ="0"/>
+          <LineSegment StartX="66.80703800000001" StartY="20.99999999999993" StartZ="0" EndX="-64" EndY="20.99999999999993" EndZ="0"/>
         </Geometry>
         <Geometry  type="Part::GeomCircle" id="11" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
-          <Circle CenterX="8.452425043429481e-32" CenterY="20.99999999999993" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="7.319178407183313"/>
+          <Circle CenterX="2.534331955361268e-16" CenterY="20.99999999999993" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="7.319178407183313"/>
         </Geometry>
         <Geometry  type="Part::GeomArcOfCircle" id="12" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
-          <ArcOfCircle CenterX="33.25180995201199" CenterY="20.99999999999994" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="6.999999999999999" StartAngle="1.570796326794897" EndAngle="4.71238898038469"/>
+          <ArcOfCircle CenterX="20.29927378001341" CenterY="20.99999999999993" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="7.000000000000002" StartAngle="1.570796326794897" EndAngle="4.712388980384691"/>
         </Geometry>
         <Geometry  type="Part::GeomArcOfCircle" id="13" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
-          <ArcOfCircle CenterX="51.25180995201199" CenterY="20.99999999999994" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="6.999999999999999" StartAngle="4.71238898038469" EndAngle="7.853981633974483"/>
+          <ArcOfCircle CenterX="52.29927378001341" CenterY="20.99999999999993" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="7.000000000000002" StartAngle="4.712388980384689" EndAngle="7.853981633974483"/>
         </Geometry>
         <Geometry  type="Part::GeomLineSegment" id="14" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
-          <LineSegment StartX="33.25180995201199" StartY="13.99999999999994" StartZ="0" EndX="51.25180995201199" EndY="13.99999999999994" EndZ="0"/>
+          <LineSegment StartX="20.29927378001341" StartY="13.99999999999993" StartZ="0" EndX="52.29927378001341" EndY="13.99999999999993" EndZ="0"/>
         </Geometry>
         <Geometry  type="Part::GeomLineSegment" id="15" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
-          <LineSegment StartX="33.25180995201199" StartY="27.99999999999994" StartZ="0" EndX="51.25180995201199" EndY="27.99999999999994" EndZ="0"/>
+          <LineSegment StartX="20.29927378001341" StartY="27.99999999999993" StartZ="0" EndX="52.29927378001341" EndY="27.99999999999993" EndZ="0"/>
         </Geometry>
       </GeometryList>
     </Property>
@@ -183,36 +183,36 @@ Curve2ds 10
 1 0 0 1 0 
 1 0 -15 1 0 
 Curves 9
-2 -51.251809952011989 20.999999999999929 0 0 0 1 1 0 0 0 1 0 6.9999999999999991
-1 -51.251809952011989 13.999999999999931 0 1 0 0 
-2 -33.251809952011989 20.999999999999929 0 0 0 1 1 0 0 0 1 0 6.9999999999999991
-1 -51.251809952011989 27.999999999999929 0 1 5.9211894646675012e-16 0 
-2 8.4524250434294814e-32 20.999999999999929 0 0 0 1 1 0 0 0 1 0 7.3191784071833128
-2 33.251809952011989 20.99999999999994 0 0 0 1 1 0 0 0 1 0 6.9999999999999991
-1 33.251809952011989 13.99999999999994 0 1 0 0 
-2 51.251809952011989 20.99999999999994 0 0 0 1 1 0 0 0 1 0 6.9999999999999991
-1 33.251809952011989 27.99999999999994 0 1 0 0 
+2 -52.299273780013408 20.999999999999929 0 0 0 1 1 0 0 0 1 0 6.9999999999999991
+1 -52.299273780013408 13.999999999999929 0 1 0 0 
+2 -20.299273780013408 20.999999999999929 0 0 0 1 1 0 0 0 1 0 6.9999999999999991
+1 -52.299273780013408 27.999999999999929 0 1 0 0 
+2 2.5343319553612681e-16 20.999999999999929 0 0 0 1 1 0 0 0 1 0 7.3191784071833128
+2 20.299273780013408 20.999999999999929 0 0 0 1 1 0 0 0 1 0 7.0000000000000018
+1 20.299273780013412 13.999999999999927 0 1 0 0 
+2 52.299273780013408 20.999999999999929 0 0 0 1 1 0 0 0 1 0 7.0000000000000018
+1 20.299273780013408 27.999999999999929 0 1 0 0 
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 5
-2 51.251809952011989 51.200000000000003 20.999999999999929 0 1 -2.2204460492503131e-16 -1 0 0 0 2.2204460492503131e-16 1 6.9999999999999991
-2 33.251809952011989 51.200000000000003 20.999999999999929 0 1 -2.2204460492503131e-16 -1 0 0 0 2.2204460492503131e-16 1 6.9999999999999991
-2 -8.4524250434294814e-32 51.200000000000003 20.999999999999929 0 1 -2.2204460492503131e-16 -1 0 0 0 2.2204460492503131e-16 1 7.3191784071833128
-2 -33.251809952011989 51.200000000000003 20.99999999999994 0 1 -2.2204460492503131e-16 -1 0 0 0 2.2204460492503131e-16 1 6.9999999999999991
-2 -51.251809952011989 51.200000000000003 20.99999999999994 0 1 -2.2204460492503131e-16 -1 0 0 0 2.2204460492503131e-16 1 6.9999999999999991
+2 52.299273780013408 51.200000000000003 20.999999999999929 0 1 -2.2204460492503131e-16 -1 0 0 0 2.2204460492503131e-16 1 6.9999999999999991
+2 20.299273780013408 51.200000000000003 20.999999999999929 0 1 -2.2204460492503131e-16 -1 0 0 0 2.2204460492503131e-16 1 6.9999999999999991
+2 -2.5343319553612681e-16 51.200000000000003 20.999999999999929 0 1 -2.2204460492503131e-16 -1 0 0 0 2.2204460492503131e-16 1 7.3191784071833128
+2 -20.299273780013408 51.200000000000003 20.999999999999929 0 1 -2.2204460492503131e-16 -1 0 0 0 2.2204460492503131e-16 1 7.0000000000000018
+2 -52.299273780013408 51.200000000000003 20.999999999999929 0 1 -2.2204460492503131e-16 -1 0 0 0 2.2204460492503131e-16 1 7.0000000000000018
 Triangulations 0
 
 TShapes 22
 Ve
 1e-07
--51.251809952012 27.9999999999999 0
+-52.2992737800134 27.9999999999999 0
 0 0
 
 0101101
 *
 Ve
-1.00000000888178e-07
--51.251809952012 13.9999999999999 0
+1e-07
+-52.2992737800134 13.9999999999999 0
 0 0
 
 0101101
@@ -227,22 +227,22 @@ Ed
 0101000
 +22 0 -21 0 *
 Ve
-1.00000000888178e-07
--33.251809952012 13.9999999999999 0
+1.00000001776357e-07
+-20.2992737800134 13.9999999999999 0
 0 0
 
 0101101
 *
 Ed
  1e-07 1 1 0
-1  2 0 0 18
+1  2 0 0 32
 0
 
 0101000
 +21 0 -19 0 *
 Ve
-1.00000005329071e-07
--33.251809952012 27.9999999999999 0
+1e-07
+-20.2992737800134 27.9999999999999 0
 0 0
 
 0101101
@@ -258,7 +258,7 @@ Ed
 +19 0 -17 0 *
 Ed
  1e-07 1 1 0
-1  4 0 0 18
+1  4 0 0 32
 0
 
 0101000
@@ -289,14 +289,14 @@ Wi
 +12 0 *
 Ve
 1e-07
-33.251809952012 27.9999999999999 0
+20.2992737800134 27.9999999999999 0
 0 0
 
 0101101
 *
 Ve
 1e-07
-33.251809952012 13.9999999999999 0
+20.2992737800134 13.9999999999999 0
 0 0
 
 0101101
@@ -311,22 +311,22 @@ Ed
 0101000
 +10 0 -9 0 *
 Ve
-1e-07
-51.251809952012 13.9999999999999 0
+1.00000003552714e-07
+52.2992737800134 13.9999999999999 0
 0 0
 
 0101101
 *
 Ed
  1e-07 1 1 0
-1  7 0 0 18
+1  7 0 0 32
 0
 
 0101000
 +9 0 -7 0 *
 Ve
 1e-07
-51.251809952012 27.9999999999999 0
+52.2992737800134 27.9999999999999 0
 0 0
 
 0101101
@@ -342,7 +342,7 @@ Ed
 +7 0 -5 0 *
 Ed
  1e-07 1 1 0
-1  9 0 0 18
+1  9 0 0 32
 0
 
 0101000

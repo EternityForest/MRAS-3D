@@ -3,29 +3,29 @@
  FreeCAD Document, see http://www.freecadweb.org for more information...
 -->
 <Document SchemaVersion="1" FileVersion="2" Split="1" HasExpansion="1">
-<Expand  count="2">
-  <Expand name="Body" count="6">
+<Expand  count="1">
+  <Expand name="Body" count="7">
     <Expand name="Pad001"/>
     <Expand name="Pocket001"/>
     <Expand name="Pocket002"/>
+    <Expand name="Pocket003"/>
     <Expand name="Pocket004"/>
     <Expand name="Pocket005"/>
     <Expand name="Pocket006"/>
   </Expand>
-  <Expand name="Body001"/>
 </Expand>
 >
   <Camera extra="0" id="1" binding="0">
 <![CDATA[
 OrthographicCamera {
   viewportMapping ADJUST_CAMERA
-  position -54.555359 -169.07671 198.90781
-  orientation 0.92332429 -0.14273621 -0.35650921  1.043467
-  nearDistance 156.22148
-  farDistance 319.76495
+  position 151.08823 255.38692 57.583652
+  orientation 0.21073377 0.64398706 0.7354399  2.3897028
+  nearDistance 191.27707
+  farDistance 373.60745
   aspectRatio 1
   focalDistance 286.55823
-  height 257.51801
+  height 141.32892
 
 }
 ## overrideMode: As Is]]>

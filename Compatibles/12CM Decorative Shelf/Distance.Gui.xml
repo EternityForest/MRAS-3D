@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD ViewProvider -->
+<Document SchemaVersion="1" FileVersion="2">
+<ViewProvider name="Distance" expanded="0">
+  <Properties Count="12" TransientCount="0">
+    <Property name="DisplayMode" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="DistFactor" type="App::PropertyFloat" status="1">
+      <Float value="1"/>
+    </Property>
+    <Property name="FontSize" type="App::PropertyInteger" status="1">
+      <Integer value="18"/>
+    </Property>
+    <Property name="LineColor" type="App::PropertyColor" status="1">
+      <PropertyColor value="4294967040"/>
+    </Property>
+    <Property name="Mirror" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="OnTopWhenSelected" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="Selectable" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="SelectionStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShadowStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShowInTree" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="TextColor" type="App::PropertyColor" status="1">
+      <PropertyColor value="4294967040"/>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+  </Properties>
+</ViewProvider>
+</Document>
