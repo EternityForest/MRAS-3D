@@ -8415,7 +8415,7 @@ TShapes 0
       <ElementMap/>
     </Property>
     <Property name="Visibility" type="App::PropertyBool" status="649">
-      <Bool value="true"/>
+      <Bool value="false"/>
     </Property>
     <Property name="_Siblings" type="App::PropertyLinkList" status="218103808">
       <LinkList count="0">
