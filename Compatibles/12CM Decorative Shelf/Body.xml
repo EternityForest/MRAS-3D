@@ -8,7 +8,7 @@
   </Extensions>
   <Properties Count="15" TransientCount="2">
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
-    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663425"/>
+    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663424"/>
     <Property name="BaseFeature" type="App::PropertyLink">
       <Link value=""/>
     </Property>
@@ -22,7 +22,7 @@
     <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
       <ExpressionEngine count="0"></ExpressionEngine>
     </Property>
-    <Property name="Group" type="App::PropertyLinkList" status="1">
+    <Property name="Group" type="App::PropertyLinkList">
       <LinkList count="28">
         <Link value="Sketch"/>
         <Link value="Pad"/>
@@ -902,7 +902,7 @@ Curves 354
 1 57.299999999999997 50.100000000000001 69 -0 -0 -1 
 3 56 50.100000000000001 31.29999999999994 0 -0.70710678118654746 0.70710678118654768 0 0.70710678118654768 0.70710678118654746 -1 0 0 1.8384776310850233 1.3
 8 4.7123889803846897 5.1239058264521544
-3 61 52.799999999999997 66 0 -0.70710678118654757 0.70710678118654757 9.3042516070149594e-17 0.70710678118654757 0.70710678118654757 -1 6.5790994051861088e-17 6.5790994051861088e-17 4.2426406871192848 3
+3 61 52.799999999999997 66 0 -0.70710678118654757 0.70710678118654757 9.3042516070149569e-17 0.70710678118654757 0.70710678118654757 -1 6.5790994051861075e-17 6.5790994051861075e-17 4.2426406871192848 3
 8 3.5531094996572508 4.7123889803846897
 2 61 54 66 -6.5790994051861125e-17 -1 -0 -1 6.5790994051861125e-17 0 0 0 -1 3
 2 61 8.9999999999999822 66 -6.5790994051861125e-17 -1 -6.123233995736766e-17 -4.0285365139167138e-33 -6.123233995736766e-17 1 -1 6.5790994051861125e-17 0 3
@@ -7934,11 +7934,11 @@ Vertex99	#3082;:T2026:5:V 21 4 367 369 647 712 893 1150 1387 1634 2021 2433 10 2
     <Property name="SingleSolid" type="App::PropertyBool">
       <Bool value="false"/>
     </Property>
-    <Property name="Tip" type="App::PropertyLink" status="1">
+    <Property name="Tip" type="App::PropertyLink">
       <Link value="Chamfer002"/>
     </Property>
     <Property name="Visibility" type="App::PropertyBool" status="648">
-      <Bool value="true"/>
+      <Bool value="false"/>
     </Property>
     <Property name="_ExportChildren" type="App::PropertyLinkList" status="218104320">
       <LinkList count="17">

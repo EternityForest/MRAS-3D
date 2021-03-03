@@ -1199,7 +1199,7 @@ TShapes 0
     <Property name="UseCustomVector" type="App::PropertyBool">
       <Bool value="false"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_Siblings" type="App::PropertyLinkList" status="218103808">
