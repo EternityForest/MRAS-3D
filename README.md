@@ -31,3 +31,27 @@ Male rails are probably more durable and have little to break, and almost nothin
 Female rails should be used on the backs and bottoms of things. This means bottoms will need to print with support.
 
 I'm not sure what to do about left and right sides. I would think female on the left side(Looking at it's front) and male on the right seems reasonable, but there might also be cases where dual-male or dual-female is the best option.
+
+
+## Compatibles:  
+
+### 128mm rail
+A wall mount rail wide enough for 4 32mm units.
+
+### 32mm Horizontal cable guide 
+A cube-shaped hook, 32mm wide, to keep a cable going how you want it.
+
+### 128mm decorative shelf
+Has sun and moon designs on the sides.  Sticks forward a bit farther than you might like, 
+as it was originally meant for a specific google alarm clock.   Has holes in the back for cables coming up from below.
+
+### Mini 32mm pencil cup
+Holds a few pencils or similar items, maybe a whiteboard marker. Also has similas cable management in case you want to use it as a housing for a DIY LED light.
+
+### 32mm Bending Jig with storage
+Handy for if you want to use 14ga wire or something instead of filament.  
+Keychain sized, and has storage for 2 extra clips, plus a pair of straightening guide holes.
+Requires cleaning up the holes after printing.  
+  
+Absolutely not needed and primarily exists to waste 7 grams of filament at the end of a spool. 
+However, the bits of filament are easy to lose and drop, so having a way to carry them may be a good thing.

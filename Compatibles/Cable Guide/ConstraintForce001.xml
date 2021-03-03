@@ -8,7 +8,7 @@
       </LinkSub>
     </Property>
     <Property name="DirectionVector" type="App::PropertyVector" status="150994944">
-      <PropertyVector valueX="0" valueY="1" valueZ="-1.110223024625155e-15"/>
+      <PropertyVector valueX="-0" valueY="1" valueZ="4e-16"/>
     </Property>
     <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
       <ExpressionEngine count="0"></ExpressionEngine>
@@ -23,19 +23,19 @@
       <String value=""/>
     </Property>
     <Property name="NormalDirection" type="App::PropertyVector" status="150994944">
-      <PropertyVector valueX="-0" valueY="-1" valueZ="1.110223024625155e-15"/>
+      <PropertyVector valueX="0" valueY="-1" valueZ="-4.440892098500626e-16"/>
     </Property>
     <Property name="Points" type="App::PropertyVectorList" status="150994944">
       <VectorList count="9" >
--12 -32.00000000000001 -11.99999999999997
--12 -32.00000000000001 -7.999999999999962
--12 -32.00000000000001 -3.999999999999956
-0 -32.00000000000001 -11.99999999999997
-0 -32.00000000000001 -7.999999999999962
-0 -32.00000000000001 -3.999999999999956
-12 -32.00000000000001 -11.99999999999997
-12 -32.00000000000001 -7.999999999999962
-12 -32.00000000000001 -3.999999999999956
+-11.5 -32 -11.50000000000001
+-11.5 -32 -8.000000000000011
+-11.5 -32 -4.500000000000006
+0 -32 -11.50000000000001
+0 -32 -8.000000000000011
+0 -32 -4.500000000000006
+11.5 -32 -11.50000000000001
+11.5 -32 -8.000000000000011
+11.5 -32 -4.500000000000006
       </VectorList>
     </Property>
     <Property name="References" type="App::PropertyLinkSubList">

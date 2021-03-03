@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+ FreeCAD Document, see http://www.freecadweb.org for more information...
+-->
+<Document SchemaVersion="1" FileVersion="2" Split="1" HasExpansion="1">
+<Expand  count="1">
+  <Expand name="Body" count="7">
+    <Expand name="Pad"/>
+    <Expand name="Pad001"/>
+    <Expand name="Pocket"/>
+    <Expand name="Pocket002"/>
+    <Expand name="Pocket003"/>
+    <Expand name="Pad002"/>
+    <Expand name="Pad003"/>
+  </Expand>
+</Expand>
+>
+  <Camera extra="0" id="2" binding="0">
+<![CDATA[
+OrthographicCamera {
+  viewportMapping ADJUST_CAMERA
+  position -16.100716 117.68812 16.714472
+  orientation -0.060137045 -0.70585251 -0.70580155  2.9351611
+  nearDistance 87.58477
+  farDistance 137.16214
+  aspectRatio 1
+  focalDistance 100
+  height 16.529903
+
+}
+## overrideMode: As Is]]>
+  </Camera>
+</Document>
