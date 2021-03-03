@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD DocumentObject -->
+<Document SchemaVersion="4" FileVersion="2">
+<Object name="ConstraintForce001">
+  <Properties Count="12" TransientCount="0">
+    <Property name="Direction" type="App::PropertyLinkSub">
+      <LinkSub value="" count="0">
+      </LinkSub>
+    </Property>
+    <Property name="DirectionVector" type="App::PropertyVector" status="150994944">
+      <PropertyVector valueX="0" valueY="1" valueZ="-1.110223024625155e-15"/>
+    </Property>
+    <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
+      <ExpressionEngine count="0"></ExpressionEngine>
+    </Property>
+    <Property name="Force" type="App::PropertyFloat">
+      <Float value="30"/>
+    </Property>
+    <Property name="Label" type="App::PropertyString" status="134217728">
+      <String value="ConstraintForce001"/>
+    </Property>
+    <Property name="Label2" type="App::PropertyString" status="67108992">
+      <String value=""/>
+    </Property>
+    <Property name="NormalDirection" type="App::PropertyVector" status="150994944">
+      <PropertyVector valueX="-0" valueY="-1" valueZ="1.110223024625155e-15"/>
+    </Property>
+    <Property name="Points" type="App::PropertyVectorList" status="150994944">
+      <VectorList count="9" >
+-12 -32.00000000000001 -11.99999999999997
+-12 -32.00000000000001 -7.999999999999962
+-12 -32.00000000000001 -3.999999999999956
+0 -32.00000000000001 -11.99999999999997
+0 -32.00000000000001 -7.999999999999962
+0 -32.00000000000001 -3.999999999999956
+12 -32.00000000000001 -11.99999999999997
+12 -32.00000000000001 -7.999999999999962
+12 -32.00000000000001 -3.999999999999956
+      </VectorList>
+    </Property>
+    <Property name="References" type="App::PropertyLinkSubList">
+      <LinkSubList count="1">
+        <Link obj="Fillet" sub="Face27" shadow=";#15a;:M;FLT;:T3656:4:F.Face27"/>
+      </LinkSubList>
+    </Property>
+    <Property name="Reversed" type="App::PropertyBool">
+      <Bool value="true"/>
+    </Property>
+    <Property name="Scale" type="App::PropertyInteger" status="134217728">
+      <Integer value="1"/>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="648">
+      <Bool value="false"/>
+    </Property>
+  </Properties>
+</Object>
+</Document>

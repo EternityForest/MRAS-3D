@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD DocumentObject -->
+<Document SchemaVersion="4" FileVersion="2">
+<Object name="ConstraintForce">
+  <Properties Count="12" TransientCount="0">
+    <Property name="Direction" type="App::PropertyLinkSub">
+      <LinkSub value="Pocket001" count="1">
+        <Sub value="Face9" shadow=";#ce;:M;CUT;:T-3656:3:F.Face9"/>
+      </LinkSub>
+    </Property>
+    <Property name="DirectionVector" type="App::PropertyVector" status="150994944">
+      <PropertyVector valueX="2.220446049250313e-16" valueY="-4.440892098500623e-16" valueZ="-1"/>
+    </Property>
+    <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
+      <ExpressionEngine count="0"></ExpressionEngine>
+    </Property>
+    <Property name="Force" type="App::PropertyFloat">
+      <Float value="22"/>
+    </Property>
+    <Property name="Label" type="App::PropertyString" status="134217728">
+      <String value="ConstraintForce"/>
+    </Property>
+    <Property name="Label2" type="App::PropertyString" status="67108992">
+      <String value=""/>
+    </Property>
+    <Property name="NormalDirection" type="App::PropertyVector" status="150994944">
+      <PropertyVector valueX="-2.220446049250313e-16" valueY="-4.44089209850063e-16" valueZ="1"/>
+    </Property>
+    <Property name="Points" type="App::PropertyVectorList" status="150994944">
+      <VectorList count="12" >
+16 -15.76529601483599 -11.02135363095631
+16 -19.55534150741799 -11.02135363095631
+16 -23.345387 -11.02135363095632
+5.333333333333337 -15.76529601483599 -11.02135363095631
+5.333333333333337 -19.55534150741799 -11.02135363095632
+5.333333333333337 -23.345387 -11.02135363095632
+-5.33333333333333 -15.76529601483599 -11.02135363095632
+-5.33333333333333 -19.55534150741799 -11.02135363095632
+-5.33333333333333 -23.345387 -11.02135363095632
+-16 -15.76529601483599 -11.02135363095632
+-16 -19.55534150741799 -11.02135363095632
+-16 -23.345387 -11.02135363095632
+      </VectorList>
+    </Property>
+    <Property name="References" type="App::PropertyLinkSubList">
+      <LinkSubList count="1">
+        <Link obj="Pocket001" sub="Face9" shadow=";#ce;:M;CUT;:T-3656:3:F.Face9"/>
+      </LinkSubList>
+    </Property>
+    <Property name="Reversed" type="App::PropertyBool">
+      <Bool value="false"/>
+    </Property>
+    <Property name="Scale" type="App::PropertyInteger" status="134217728">
+      <Integer value="1"/>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="648">
+      <Bool value="false"/>
+    </Property>
+  </Properties>
+</Object>
+</Document>
