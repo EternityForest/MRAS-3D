@@ -36,14 +36,16 @@ I'm not sure what to do about left and right sides. I would think female on the 
 ## Compatibles:  
 
 ### 128mm rail
-A wall mount rail wide enough for 4 32mm units.
+A wall mount rail wide enough for 4 32mm units.  Exported from the same file as the shelf.  Uses 16mm spaced
+M4ish holes in the center of every 32mm unit, that have a chamver for most wood screws.
 
 ### 32mm Horizontal cable guide 
 A cube-shaped hook, 32mm wide, to keep a cable going how you want it.
 
 ### 128mm decorative shelf
 Has sun and moon designs on the sides.  Sticks forward a bit farther than you might like, 
-as it was originally meant for a specific google alarm clock.   Has holes in the back for cables coming up from below.
+as it was originally meant for a specific google alarm clock.   Has holes in the back for cables coming up from below.  
+  
 
 ### Mini 32mm pencil cup
 Holds a few pencils or similar items, maybe a whiteboard marker. Also has similas cable management in case you want to use it as a housing for a DIY LED light.
@@ -55,3 +57,23 @@ Requires cleaning up the holes after printing.
   
 Absolutely not needed and primarily exists to waste 7 grams of filament at the end of a spool. 
 However, the bits of filament are easy to lose and drop, so having a way to carry them may be a good thing.
+
+### 64mm wide battery storage trays
+
+AAA version stores 12x AAA plus two coin cells
+18650 version stores 4x 18650 plus 2 AAs, one coin cell, and one AAA
+
+WARNING: DO NOT USE THESE TO STORE COIN CELLS OR OTHER DANGEROUS BATTERIES WHERE KIDS CAN REACH
+
+
+### 32MM Vertical Cable Guide
+
+Tiny part with 2 side channels for cables.  To actually be able to hold the cables, use a 1/4 by 1/8 piece of single sided foam tape in the channels.  
+  
+### 32MM Adapter
+Glue or screw this to anything to make it rail-mountable.  Has a centered cross of 3 M4 holes side to side at 10mm spacing. and 2 m3 holes 10mm above and below.  
+  
+This has special cutouts that let you use M4ish wood screws screwed in from the rail side without conflict.  
+  
+The M3(But not the M4) holes can also accept a nut threaded on from the rail side. But you should probably just  
+use 3M VHB or something like that in most cases.
