@@ -19,6 +19,8 @@ The gap between parts is meant to be covered by 1/4x1/8 foam tape, providing bot
 
 The full finished products should normally be a multiple of 32, minus a gap on all sides for clearence. The peg holes should be 16mm from the ideal 32mm edge, not the real edge that allows for clearence.
 
+It is also acceptable for the height of an item to be 16mm, with 48mm being a preferred dimension for shelves and storage.
+
 For demo purposes, these blocks are exactly 32mm.
 
 
@@ -76,4 +78,9 @@ Glue or screw this to anything to make it rail-mountable.  Has a centered cross 
 This has special cutouts that let you use M4ish wood screws screwed in from the rail side without conflict.  
   
 The M3(But not the M4) holes can also accept a nut threaded on from the rail side. But you should probably just  
-use 3M VHB or something like that in most cases.
+use 3M VHB or something like that in most cases.  
+  
+### 64MM Cup  
+  
+48mm high by 64mm cup.  Contains one internal 32mm rail on the left side, for internally attaching other modules.
+

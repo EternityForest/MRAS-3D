@@ -2,8 +2,8 @@
 <!--
  FreeCAD Document, see http://www.freecadweb.org for more information...
 -->
-<Document SchemaVersion="4" ProgramVersion="2021.0112R23076 +3101 (Git)" FileVersion="2" StringHasher="1">
-  <StringHasher saveall="0" threshold="0" count="7257">
+<Document SchemaVersion="4" ProgramVersion="2021.0301R23964 +3306 (Git)" FileVersion="2" StringHasher="1">
+  <StringHasher saveall="0" threshold="0" count="7542">
 <![CDATA[
 1 0 0:g1v1;SKT
 2 0 0:g4v2;SKT
@@ -7262,6 +7262,291 @@
 13095 0 0:#3306;:U;CHF;:T1998:5:E
 13096 0 0:#3306;:U3;CHF;:T1998:5:E
 13097 0 0:#18f4;:M;CHF;:T1998:5:F
+13110 0 0:#a;:T2027:2:E
+13111 0 0:#4;:T2027:2:V
+13112 0 0:#5;:T2027:2:V
+13113 0 0:#58;:T2027:3:E
+13114 0 0:#3336;:G;XTR;:T2027:5:F
+13115 0 0:#3339;:G;XTR;:T2027:5:F
+13116 0 0:#3337;:G;XTR;:T2027:5:E
+13117 0 0:#3338;:G;XTR;:T2027:5:E
+13118 0 0:(#333b;:U;XTR;:T2027:5:E)
+13119 0 0:#333a;:U;XTR;:T2027:5:E
+13122 0 0:(#2fc2;K-1;:T2025:5:F)
+13128 0 0:#2f1e;:T2025:5:V
+13129 0 0:#2f1f;:T2025:5:V
+13130 0 0:#2f20;:T2025:5:V
+13133 0 0:#2ff1;:T2025:5:V
+13134 0 0:#2ff2;:T2025:5:V
+13135 0 0:#2ff3;:T2025:5:V
+13136 0 0:#2ff4;:T2025:5:V
+13137 0 0:#2ff5;:T2025:5:V
+13138 0 0:#2ff6;:T2025:5:V
+13139 0 0:#2ff7;:T2025:5:V
+13140 0 0:#2f2a;:T2025:5:V
+13141 0 0:#2f2b;:T2025:5:V
+13142 0 0:#2f2c;:T2025:5:V
+13143 0 0:#2f2d;:T2025:5:V
+13144 0 0:#2f2e;:T2025:5:V
+13145 0 0:#2f2f;:T2025:5:V
+13146 0 0:#2f30;:T2025:5:V
+13147 0 0:#2f31;:T2025:5:V
+13148 0 0:#2f32;:T2025:5:V
+13149 0 0:#2f33;:T2025:5:V
+13150 0 0:#2f34;:T2025:5:V
+13151 0 0:#2f35;:T2025:5:V
+13152 0 0:#2f36;:T2025:5:V
+13153 0 0:#2f37;:T2025:5:V
+13154 0 0:#2f38;:T2025:5:V
+13155 0 0:#2f39;:T2025:5:V
+13165 0 0:#2ff8;:T2025:5:V
+13166 0 0:#2ff9;:T2025:5:V
+13167 0 0:#2ffa;:T2025:5:V
+13168 0 0:#2ffb;:T2025:5:V
+13169 0 0:#2ffc;:T2025:5:V
+13170 0 0:#2ffd;:T2025:5:V
+13171 0 0:#2ffe;:T2025:5:V
+13172 0 0:#2fff;:T2025:5:V
+13173 0 0:#2f4b;:T2025:5:V
+13174 0 0:#2f4c;:T2025:5:V
+13175 0 0:#3000;:T2025:5:V
+13176 0 0:#3001;:T2025:5:V
+13177 0 0:#3002;:T2025:5:V
+13178 0 0:#3003;:T2025:5:V
+13179 0 0:#3004;:T2025:5:V
+13180 0 0:#3005;:T2025:5:V
+13181 0 0:#3006;:T2025:5:V
+13182 0 0:#3007;:T2025:5:V
+13183 0 0:#2f4d;:T2025:5:V
+13184 0 0:#2f4e;:T2025:5:V
+13185 0 0:#2f4f;:T2025:5:V
+13186 0 0:#2f50;:T2025:5:V
+13187 0 0:#2f51;:T2025:5:V
+13188 0 0:#2f52;:T2025:5:V
+13189 0 0:#2f53;:T2025:5:V
+13190 0 0:#3008;:T2025:5:V
+13191 0 0:#3009;:T2025:5:V
+13192 0 0:#300a;:T2025:5:V
+13193 0 0:#300b;:T2025:5:V
+13194 0 0:#300c;:T2025:5:V
+13195 0 0:#300d;:T2025:5:V
+13196 0 0:#300e;:T2025:5:V
+13197 0 0:#2f1c;:T2025:5:E
+13198 0 0:#2f54;:T2025:5:E
+13199 0 0:#2f55;:M;CUT;:T2025:5:E
+13202 0 0:#2fcd;:T2025:5:E
+13203 0 0:#2fd0;:T2025:5:E
+13204 0 0:#2fd3;:T2025:5:E
+13205 0 0:#2fd6;:T2025:5:E
+13206 0 0:#2fd9;:T2025:5:E
+13207 0 0:#2fdc;:T2025:5:E
+13208 0 0:#2fdf;:T2025:5:E
+13209 0 0:#2f5f;:T2025:5:E
+13210 0 0:#2f60;:T2025:5:E
+13211 0 0:#2f61;:T2025:5:E
+13212 0 0:#2f62;:T2025:5:E
+13213 0 0:#2f63;:T2025:5:E
+13214 0 0:#2f64;:T2025:5:E
+13215 0 0:#2f65;:T2025:5:E
+13216 0 0:#2f66;:T2025:5:E
+13217 0 0:#2f67;:T2025:5:E
+13218 0 0:#2f68;:T2025:5:E
+13219 0 0:#2f69;:T2025:5:E
+13220 0 0:#2f6a;:T2025:5:E
+13221 0 0:#2f6b;:T2025:5:E
+13222 0 0:#2f6c;:T2025:5:E
+13223 0 0:#2f6d;:T2025:5:E
+13224 0 0:#2f6e;:T2025:5:E
+13225 0 0:#2f6f;:T2025:5:E
+13226 0 0:#2f70;:M;CUT;:T2025:5:E
+13227 0 0:#2f71;:T2025:5:E
+13239 0 0:#300f;:T2025:5:E
+13240 0 0:#3010;:T2025:5:E
+13241 0 0:#3011;:T2025:5:E
+13242 0 0:#3012;:T2025:5:E
+13243 0 0:#3013;:T2025:5:E
+13244 0 0:#3014;:T2025:5:E
+13245 0 0:#3015;:T2025:5:E
+13246 0 0:#3016;:T2025:5:E
+13247 0 0:#3017;:T2025:5:E
+13248 0 0:#3018;:T2025:5:E
+13249 0 0:#3019;:T2025:5:E
+13250 0 0:#301a;:T2025:5:E
+13251 0 0:#301b;:T2025:5:E
+13252 0 0:#301c;:T2025:5:E
+13253 0 0:#2f1d;:T2025:5:E
+13254 0 0:#301d;:T2025:5:E
+13255 0 0:#2f8c;:T2025:5:E
+13256 0 0:#2f8d;:T2025:5:E
+13257 0 0:#2f8e;:T2025:5:E
+13258 0 0:#2f8f;:T2025:5:E
+13259 0 0:#2f90;:M;CUT;:T2025:5:E
+13260 0 0:#2f91;:M;CUT;:T2025:5:E
+13263 0 0:#2fe2;:T2025:5:E
+13264 0 0:#2fe4;:T2025:5:E
+13265 0 0:#2fe6;:T2025:5:E
+13266 0 0:#2fe8;:T2025:5:E
+13267 0 0:#2fea;:T2025:5:E
+13268 0 0:#2fec;:T2025:5:E
+13269 0 0:#2fee;:T2025:5:E
+13270 0 0:#2ff0;:T2025:5:E
+13271 0 0:#2f94;:T2025:5:E
+13272 0 0:#2f95;:T2025:5:E
+13273 0 0:#2f96;:T2025:5:E
+13274 0 0:#2f97;:T2025:5:E
+13275 0 0:#2f98;:T2025:5:E
+13276 0 0:#2f99;:T2025:5:E
+13277 0 0:#2f9a;:T2025:5:E
+13278 0 0:#2f9b;:T2025:5:E
+13279 0 0:#2f9c;:T2025:5:E
+13280 0 0:#2f9d;:T2025:5:E
+13281 0 0:#2f9e;:T2025:5:E
+13282 0 0:#2f9f;:T2025:5:E
+13283 0 0:#2fa0;:T2025:5:E
+13284 0 0:#2fa1;:T2025:5:E
+13294 0 0:#2fce;:T2025:5:E
+13295 0 0:#301e;:T2025:5:E
+13296 0 0:#2fd1;:T2025:5:E
+13297 0 0:#301f;:T2025:5:E
+13298 0 0:#2fd4;:T2025:5:E
+13299 0 0:#3020;:T2025:5:E
+13300 0 0:#2fd7;:T2025:5:E
+13301 0 0:#3021;:T2025:5:E
+13302 0 0:#2fda;:T2025:5:E
+13303 0 0:#3022;:T2025:5:E
+13304 0 0:#2fdd;:T2025:5:E
+13305 0 0:#3023;:T2025:5:E
+13306 0 0:#2fe0;:T2025:5:E
+13307 0 0:#3024;:T2025:5:E
+13308 0 0:#3025;:T2025:5:E
+13309 0 0:#3026;:T2025:5:E
+13310 0 0:#3027;:T2025:5:E
+13311 0 0:#3028;:T2025:5:E
+13312 0 0:#3029;:T2025:5:E
+13313 0 0:#302a;:T2025:5:E
+13314 0 0:#302b;:T2025:5:E
+13315 0 0:#302c;:T2025:5:E
+13316 0 0:#2fa9;:M;CUT;:T2025:5:F
+13317 0 0:#2f1b;:T2025:5:F
+13318 0 0:#2faa;:T2025:5:F
+13319 0 0:#2fab;:M;CUT;:T2025:5:F
+13322 0 0:#2fcc;:T2025:5:F
+13323 0 0:#2fcf;:T2025:5:F
+13324 0 0:#2fd2;:T2025:5:F
+13325 0 0:#2fd5;:T2025:5:F
+13326 0 0:#2fd8;:T2025:5:F
+13327 0 0:#2fdb;:T2025:5:F
+13328 0 0:#2fde;:T2025:5:F
+13329 0 0:#2fb5;:T2025:5:F
+13330 0 0:#2fb6;:T2025:5:F
+13331 0 0:#2fb7;:T2025:5:F
+13332 0 0:#2fb8;:M;CUT;:T2025:5:F
+13334 0 0:#302d;:M;CUT;:T2025:5:F
+13335 0 0:#2fbb;:T2025:5:F
+13336 0 0:#2fbc;:T2025:5:F
+13337 0 0:#2fbd;:T2025:5:F
+13338 0 0:#2fbe;:T2025:5:F
+13339 0 0:#2fbf;:T2025:5:F
+13340 0 0:#2fc0;:T2025:5:F
+13341 0 0:#2fc1;:T2025:5:F
+13342 0 0:#2fc2;:M;CUT;:T2025:5:F
+13352 0 0:#302e;:T2025:5:F
+13353 0 0:#302f;:T2025:5:F
+13354 0 0:#3030;:T2025:5:F
+13355 0 0:#3031;:T2025:5:F
+13356 0 0:#3032;:T2025:5:F
+13357 0 0:#3033;:T2025:5:F
+13358 0 0:#3034;:T2025:5:F
+13359 0 0:#2feb;:T2025:5:F
+13360 0 0:#2fe1;:T2025:5:F
+13361 0 0:#2fe3;:T2025:5:F
+13362 0 0:#2fe5;:T2025:5:F
+13363 0 0:#2fe7;:T2025:5:F
+13364 0 0:#2fe9;:T2025:5:F
+13365 0 0:#2fed;:T2025:5:F
+13366 0 0:#2fef;:T2025:5:F
+13367 0 0:#333a;:M;CUT;:T-2029:5:F
+13368 0 0:(#2fc3;K-1;:T2025:5:F)
+13369 0 0:(#2f75;:T2025:5:E)
+13370 0 0:(#2fc4;K-1;:T2025:5:F)
+13371 0 0:(#2fc4;K-2;:T2025:5:F)
+13372 0 0:(#2fc5;K-1;:T2025:5:F)
+13373 0 0:(#2fc5;K-2;:T2025:5:F)
+13374 0 0:(#2fc6;K-1;:T2025:5:F)
+13375 0 0:(#2fc6;K-2;:T2025:5:F)
+13376 0 0:(#2fc7;K-1;:T2025:5:F)
+13377 0 0:(#2fc7;K-2;:T2025:5:F)
+13378 0 0:(#2fc8;K-1;:T2025:5:F)
+13379 0 0:(#2fc8;K-2;:T2025:5:F)
+13380 0 0:(#2fc9;K-1;:T2025:5:F)
+13381 0 0:(#2fc9;K-2;:T2025:5:F)
+13382 0 0:(#2fca;K-1;:T2025:5:F)
+13383 0 0:(#2fca;K-2;:T2025:5:F)
+13384 0 0:(#2f57;:T2025:5:E)
+13385 0 0:(#333a;K-1;:T-2029:5:F)
+13386 0 0:(#333a;K-2;:T-2029:5:F)
+13387 0 0:(#333a;K-3;:T-2029:5:F)
+13388 0 0:(#333a;K-4;:T-2029:5:F)
+13389 0 0:(#333a;K-5;:T-2029:5:F)
+13390 0 0:(#333a;K-6;:T-2029:5:F)
+13391 0 0:(#333a;K-7;:T-2029:5:F)
+13392 0 0:#333a;:G10#343a;CUT;:T-2029:5:E
+13393 0 0:#333a;:G12#343c;CUT;:T-2029:5:E
+13394 0 0:#333a;:G14#343e;CUT;:T-2029:5:E
+13395 0 0:#333a;:G16#3440;CUT;:T-2029:5:E
+13396 0 0:#333a;:G18#3442;CUT;:T-2029:5:E
+13397 0 0:#333a;:G20#3444;CUT;:T-2029:5:E
+13398 0 0:#333a;:G22#3446;CUT;:T-2029:5:E
+13399 0 0:#2f21;:M;CUT;:T2025:5:V
+13400 0 0:#2f22;:M;CUT;:T2025:5:V
+13401 0 0:#2f3a;:M;CUT;:T2025:5:V
+13402 0 0:#2f3b;:M;CUT;:T2025:5:V
+13403 0 0:#3450;:U;CUT;:T-2029:5:V
+13404 0 0:#2fa2;:G#3449;CUT;:T2025:5:V
+13405 0 0:#3451;:U;CUT;:T-2029:5:V
+13406 0 0:#2fa3;:G#344a;CUT;:T2025:5:V
+13407 0 0:#3452;:U;CUT;:T-2029:5:V
+13408 0 0:#2fa4;:G#344b;CUT;:T2025:5:V
+13409 0 0:#3453;:U;CUT;:T-2029:5:V
+13410 0 0:#2fa5;:G#344c;CUT;:T2025:5:V
+13411 0 0:#3454;:U;CUT;:T-2029:5:V
+13412 0 0:#2fa6;:G#344d;CUT;:T2025:5:V
+13413 0 0:#3455;:U;CUT;:T-2029:5:V
+13414 0 0:#2fa7;:G#344e;CUT;:T2025:5:V
+13415 0 0:#3456;:U;CUT;:T-2029:5:V
+13416 0 0:#2fa8;:G#344f;CUT;:T2025:5:V
+13417 0 0:#2f56;:M;CUT;:T2025:5:E
+13418 0 0:#333d;:M#3448;CUT;:T-2029:5:E
+13419 0 0:#2f72;:M;CUT;:T2025:5:E
+13420 0 0:#333a;:G8#3342;CUT;:T-2029:5:E
+13421 0 0:#333a;:G9#3438;CUT;:T-2029:5:E
+13422 0 0:#333c;:M#3439;CUT;:T-2029:5:E
+13423 0 0:#333a;:G11#343b;CUT;:T-2029:5:E
+13424 0 0:#333a;:G13#343d;CUT;:T-2029:5:E
+13425 0 0:#333a;:G15#343f;CUT;:T-2029:5:E
+13426 0 0:#333a;:G17#3441;CUT;:T-2029:5:E
+13427 0 0:#333a;:G19#3443;CUT;:T-2029:5:E
+13428 0 0:#333a;:G21#3445;CUT;:T-2029:5:E
+13429 0 0:#333a;:G23#3447;CUT;:T-2029:5:E
+13430 0 0:#2f92;:M;CUT;:T2025:5:E
+13431 0 0:#2f93;:M;CUT;:T2025:5:E
+13432 0 0:#2fa2;:M;CUT;:T2025:5:E
+13433 0 0:#2fa3;:M;CUT;:T2025:5:E
+13434 0 0:#2fa4;:M;CUT;:T2025:5:E
+13435 0 0:#2fa5;:M;CUT;:T2025:5:E
+13436 0 0:#2fa6;:M;CUT;:T2025:5:E
+13437 0 0:#2fa7;:M;CUT;:T2025:5:E
+13438 0 0:#2fa8;:M;CUT;:T2025:5:E
+13439 0 0:#2fac;:M;CUT;:T2025:5:F
+13440 0 0:#2fb9;:M;CUT;:T2025:5:F
+13441 0 0:#2fc3;:M;CUT;:T2025:5:F
+13442 0 0:#2fc4;:M;CUT;:T2025:5:F
+13443 0 0:#2fc5;:M;CUT;:T2025:5:F
+13444 0 0:#2fc6;:M;CUT;:T2025:5:F
+13445 0 0:#2fc7;:M;CUT;:T2025:5:F
+13446 0 0:#2fc8;:M;CUT;:T2025:5:F
+13447 0 0:#2fc9;:M;CUT;:T2025:5:F
+13448 0 0:#2fca;:M;CUT;:T2025:5:F
 ]]>
   </StringHasher>
   <Properties Count="19" TransientCount="3">
@@ -7293,7 +7578,7 @@
       <String value=""/>
     </Property>
     <Property name="LastModifiedDate" type="App::PropertyString" status="16777217">
-      <String value="2021-03-03T01:32:34Z"/>
+      <String value="2021-03-05T04:04:43Z"/>
     </Property>
     <Property name="License" type="App::PropertyString" status="1">
       <String value="All rights reserved"/>
@@ -7328,45 +7613,45 @@
       <Bool value="true"/>
     </Property>
   </Properties>
-  <Objects Count="55" Dependencies="1">
+  <Objects Count="57" Dependencies="1">
     <ObjectDeps Name="Body" Count="29">
-      <Dep Name="Sketch"/>
-      <Dep Name="Pocket001"/>
-      <Dep Name="Fillet001"/>
-      <Dep Name="Sketch001"/>
-      <Dep Name="Pad001"/>
-      <Dep Name="Origin"/>
-      <Dep Name="Pad002"/>
-      <Dep Name="Sketch002"/>
       <Dep Name="Fillet003"/>
-      <Dep Name="Sketch003"/>
-      <Dep Name="Fillet"/>
+      <Dep Name="Pocket006"/>
+      <Dep Name="Sketch"/>
+      <Dep Name="Pocket005"/>
+      <Dep Name="Fillet002"/>
+      <Dep Name="Origin"/>
       <Dep Name="Sketch004"/>
-      <Dep Name="Pocket"/>
+      <Dep Name="Sketch010"/>
+      <Dep Name="Sketch006"/>
+      <Dep Name="Sketch005"/>
       <Dep Name="LinearPattern"/>
+      <Dep Name="Fillet"/>
+      <Dep Name="Pocket001"/>
+      <Dep Name="Sketch003"/>
+      <Dep Name="Sketch008"/>
       <Dep Name="Sketch007"/>
       <Dep Name="Pocket003"/>
-      <Dep Name="Sketch006"/>
-      <Dep Name="Pocket002"/>
-      <Dep Name="Pad"/>
-      <Dep Name="Fillet002"/>
-      <Dep Name="Sketch005"/>
+      <Dep Name="Pad002"/>
+      <Dep Name="Pad001"/>
+      <Dep Name="Fillet001"/>
       <Dep Name="Pad003"/>
-      <Dep Name="Sketch008"/>
+      <Dep Name="Sketch001"/>
+      <Dep Name="Pocket002"/>
+      <Dep Name="Pocket"/>
       <Dep Name="Pocket004"/>
+      <Dep Name="Pad"/>
+      <Dep Name="Sketch002"/>
       <Dep Name="Sketch009"/>
-      <Dep Name="Pocket005"/>
-      <Dep Name="Sketch010"/>
-      <Dep Name="Pocket006"/>
       <Dep Name="Chamfer002"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin" Count="6">
-      <Dep Name="XY_Plane"/>
       <Dep Name="Z_Axis"/>
-      <Dep Name="YZ_Plane"/>
-      <Dep Name="XZ_Plane"/>
+      <Dep Name="XY_Plane"/>
       <Dep Name="X_Axis"/>
       <Dep Name="Y_Axis"/>
+      <Dep Name="YZ_Plane"/>
+      <Dep Name="XZ_Plane"/>
     </ObjectDeps>
     <ObjectDeps Name="X_Axis" Count="0"/>
     <ObjectDeps Name="Y_Axis" Count="0"/>
@@ -7385,30 +7670,30 @@
       <Dep Name="Pad"/>
     </ObjectDeps>
     <ObjectDeps Name="Pad001" Count="3">
-      <Dep Name="Sketch001"/>
       <Dep Name="Body"/>
+      <Dep Name="Sketch001"/>
       <Dep Name="Pad"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch002" Count="1">
       <Dep Name="Pad001"/>
     </ObjectDeps>
     <ObjectDeps Name="Pocket" Count="3">
+      <Dep Name="Body"/>
       <Dep Name="Pad001"/>
       <Dep Name="Sketch002"/>
-      <Dep Name="Body"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch003" Count="1">
       <Dep Name="Pocket"/>
     </ObjectDeps>
     <ObjectDeps Name="Pocket001" Count="3">
       <Dep Name="Sketch003"/>
-      <Dep Name="Pocket"/>
       <Dep Name="Body"/>
+      <Dep Name="Pocket"/>
     </ObjectDeps>
     <ObjectDeps Name="LinearPattern" Count="3">
+      <Dep Name="X_Axis"/>
       <Dep Name="Pocket001"/>
       <Dep Name="Body"/>
-      <Dep Name="X_Axis"/>
     </ObjectDeps>
     <ObjectDeps Name="Fillet" Count="2">
       <Dep Name="LinearPattern"/>
@@ -7418,8 +7703,8 @@
       <Dep Name="Fillet"/>
     </ObjectDeps>
     <ObjectDeps Name="Pad002" Count="3">
-      <Dep Name="Fillet"/>
       <Dep Name="Sketch004"/>
+      <Dep Name="Fillet"/>
       <Dep Name="Body"/>
     </ObjectDeps>
     <ObjectDeps Name="Fillet001" Count="2">
@@ -7427,16 +7712,16 @@
       <Dep Name="Body"/>
     </ObjectDeps>
     <ObjectDeps Name="Fillet002" Count="2">
-      <Dep Name="Fillet001"/>
       <Dep Name="Body"/>
+      <Dep Name="Fillet001"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch005" Count="1">
       <Dep Name="Fillet002"/>
     </ObjectDeps>
     <ObjectDeps Name="Pad003" Count="3">
-      <Dep Name="Body"/>
       <Dep Name="Fillet002"/>
       <Dep Name="Sketch005"/>
+      <Dep Name="Body"/>
     </ObjectDeps>
     <ObjectDeps Name="Fillet003" Count="2">
       <Dep Name="Body"/>
@@ -7455,16 +7740,16 @@
     </ObjectDeps>
     <ObjectDeps Name="Pocket003" Count="3">
       <Dep Name="Sketch007"/>
-      <Dep Name="Pocket002"/>
       <Dep Name="Body"/>
+      <Dep Name="Pocket002"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch008" Count="1">
       <Dep Name="Pocket003"/>
     </ObjectDeps>
     <ObjectDeps Name="Pocket004" Count="3">
+      <Dep Name="Sketch008"/>
       <Dep Name="Pocket003"/>
       <Dep Name="Body"/>
-      <Dep Name="Sketch008"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch009" Count="1">
       <Dep Name="Pocket004"/>
@@ -7478,30 +7763,32 @@
       <Dep Name="Pocket005"/>
     </ObjectDeps>
     <ObjectDeps Name="Pocket006" Count="3">
-      <Dep Name="Body"/>
       <Dep Name="Pocket005"/>
       <Dep Name="Sketch010"/>
+      <Dep Name="Body"/>
     </ObjectDeps>
-    <ObjectDeps Name="Body001" Count="12">
-      <Dep Name="Origin001"/>
-      <Dep Name="Sketch011"/>
-      <Dep Name="Pad004"/>
-      <Dep Name="Sketch012"/>
-      <Dep Name="Pocket007"/>
-      <Dep Name="LinearPattern001"/>
+    <ObjectDeps Name="Body001" Count="14">
       <Dep Name="Sketch013"/>
-      <Dep Name="Pocket008"/>
-      <Dep Name="LinearPattern002"/>
+      <Dep Name="Sketch012"/>
       <Dep Name="Chamfer"/>
+      <Dep Name="Sketch011"/>
       <Dep Name="Fillet004"/>
+      <Dep Name="Pocket008"/>
+      <Dep Name="Origin001"/>
       <Dep Name="Chamfer001"/>
+      <Dep Name="LinearPattern002"/>
+      <Dep Name="LinearPattern001"/>
+      <Dep Name="Pad004"/>
+      <Dep Name="Pocket007"/>
+      <Dep Name="Sketch014"/>
+      <Dep Name="Pocket009"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin001" Count="6">
+      <Dep Name="Z_Axis001"/>
       <Dep Name="X_Axis001"/>
       <Dep Name="Y_Axis001"/>
-      <Dep Name="Z_Axis001"/>
-      <Dep Name="XY_Plane001"/>
       <Dep Name="XZ_Plane001"/>
+      <Dep Name="XY_Plane001"/>
       <Dep Name="YZ_Plane001"/>
     </ObjectDeps>
     <ObjectDeps Name="X_Axis001" Count="0"/>
@@ -7521,26 +7808,26 @@
       <Dep Name="XY_Plane001"/>
     </ObjectDeps>
     <ObjectDeps Name="Pocket007" Count="3">
+      <Dep Name="Sketch012"/>
       <Dep Name="Body001"/>
       <Dep Name="Pad004"/>
-      <Dep Name="Sketch012"/>
     </ObjectDeps>
     <ObjectDeps Name="LinearPattern001" Count="3">
-      <Dep Name="Body001"/>
       <Dep Name="X_Axis001"/>
+      <Dep Name="Body001"/>
       <Dep Name="Pocket007"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch013" Count="1">
       <Dep Name="LinearPattern001"/>
     </ObjectDeps>
     <ObjectDeps Name="Pocket008" Count="3">
+      <Dep Name="Sketch013"/>
       <Dep Name="Body001"/>
       <Dep Name="LinearPattern001"/>
-      <Dep Name="Sketch013"/>
     </ObjectDeps>
     <ObjectDeps Name="LinearPattern002" Count="3">
-      <Dep Name="Body001"/>
       <Dep Name="X_Axis001"/>
+      <Dep Name="Body001"/>
       <Dep Name="Pocket008"/>
     </ObjectDeps>
     <ObjectDeps Name="Chamfer" Count="2">
@@ -7548,16 +7835,24 @@
       <Dep Name="LinearPattern002"/>
     </ObjectDeps>
     <ObjectDeps Name="Fillet004" Count="2">
-      <Dep Name="Body001"/>
       <Dep Name="Chamfer"/>
+      <Dep Name="Body001"/>
     </ObjectDeps>
     <ObjectDeps Name="Chamfer001" Count="2">
       <Dep Name="Body001"/>
       <Dep Name="Fillet004"/>
     </ObjectDeps>
     <ObjectDeps Name="Chamfer002" Count="2">
-      <Dep Name="Body"/>
       <Dep Name="Pocket006"/>
+      <Dep Name="Body"/>
+    </ObjectDeps>
+    <ObjectDeps Name="Sketch014" Count="1">
+      <Dep Name="Chamfer001"/>
+    </ObjectDeps>
+    <ObjectDeps Name="Pocket009" Count="3">
+      <Dep Name="Body001"/>
+      <Dep Name="Chamfer001"/>
+      <Dep Name="Sketch014"/>
     </ObjectDeps>
     <Object type="PartDesign::Body" name="Body" id="1894" revision="430" file="Body.xml" />
     <Object type="App::Origin" name="Origin" id="1895" revision="0" file="Origin.xml" />
@@ -7594,7 +7889,7 @@
     <Object type="PartDesign::Pocket" name="Pocket005" id="1995" revision="201" file="Pocket005.xml" />
     <Object type="Sketcher::SketchObject" name="Sketch010" id="1996" revision="458" file="Sketch010.xml" />
     <Object type="PartDesign::Pocket" name="Pocket006" id="1998" revision="229" file="Pocket006.xml" />
-    <Object type="PartDesign::Body" name="Body001" id="1999" revision="102" file="Body001.xml" />
+    <Object type="PartDesign::Body" name="Body001" id="1999" revision="119" file="Body001.xml" />
     <Object type="App::Origin" name="Origin001" id="2000" revision="0" file="Origin001.xml" />
     <Object type="App::Line" name="X_Axis001" id="2001" revision="1" file="X_Axis001.xml" />
     <Object type="App::Line" name="Y_Axis001" id="2002" revision="2" file="Y_Axis001.xml" />
@@ -7610,10 +7905,12 @@
     <Object type="Sketcher::SketchObject" name="Sketch013" id="2012" revision="51" file="Sketch013.xml" />
     <Object type="PartDesign::Pocket" name="Pocket008" id="2014" revision="15" file="Pocket008.xml" />
     <Object type="PartDesign::LinearPattern" name="LinearPattern002" id="2016" revision="87" file="LinearPattern002.xml" />
-    <Object type="PartDesign::Chamfer" name="Chamfer" id="2018" revision="23" file="Chamfer.xml" />
-    <Object type="PartDesign::Fillet" name="Fillet004" id="2019" revision="30" file="Fillet004.xml" />
-    <Object type="PartDesign::Chamfer" name="Chamfer001" id="2025" revision="75" file="Chamfer001.xml" />
+    <Object type="PartDesign::Chamfer" name="Chamfer" id="2018" revision="29" file="Chamfer.xml" />
+    <Object type="PartDesign::Fillet" name="Fillet004" id="2019" revision="34" file="Fillet004.xml" />
+    <Object type="PartDesign::Chamfer" name="Chamfer001" id="2025" revision="77" file="Chamfer001.xml" />
     <Object type="PartDesign::Chamfer" name="Chamfer002" id="2026" revision="37" file="Chamfer002.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch014" id="2027" revision="43" file="Sketch014.xml" />
+    <Object type="PartDesign::Pocket" name="Pocket009" id="2029" revision="16" file="Pocket009.xml" />
   </Objects>
   <ObjectData Count="0">
   </ObjectData>

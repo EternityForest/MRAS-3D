@@ -26,7 +26,7 @@
     <Property name="Label" type="App::PropertyString" status="134217728">
       <String value="LinearPattern"/>
     </Property>
-    <Property name="Label2" type="App::PropertyString" status="67108992">
+    <Property name="Label2" type="App::PropertyString" status="128">
       <String value=""/>
     </Property>
     <Property name="Length" type="App::PropertyLength">

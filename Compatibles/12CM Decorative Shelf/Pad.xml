@@ -2,7 +2,7 @@
 <!-- FreeCAD DocumentObject -->
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="Pad">
-  <Properties Count="34" TransientCount="2">
+  <Properties Count="35" TransientCount="2">
     <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
@@ -268,7 +268,7 @@ Vertex8	#1c;:U;XTR;:T1902:3:V 3 7 17 28
     <Property name="Label" type="App::PropertyString" status="134217728">
       <String value="Pad"/>
     </Property>
-    <Property name="Label2" type="App::PropertyString" status="67108992">
+    <Property name="Label2" type="App::PropertyString" status="128">
       <String value=""/>
     </Property>
     <Property name="Length" type="App::PropertyLength">
@@ -562,6 +562,9 @@ TShapes 0
       </LinkSub>
     </Property>
     <Property name="UseCustomVector" type="App::PropertyBool">
+      <Bool value="false"/>
+    </Property>
+    <Property name="UsePipeForDraft" type="App::PropertyBool">
       <Bool value="false"/>
     </Property>
     <Property name="Visibility" type="App::PropertyBool" status="648">

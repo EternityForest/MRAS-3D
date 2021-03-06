@@ -6,7 +6,7 @@
     <Extension type="Part::AttachExtension" name="AttachExtension">
     </Extension>
   </Extensions>
-  <Properties Count="18" TransientCount="1">
+  <Properties Count="19" TransientCount="1">
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AttacherType" type="App::PropertyString" status="8">
       <String value="Attacher::AttachEnginePlane"/>
@@ -41,17 +41,29 @@
     </Property>
     <Property name="ExternalGeo" type="Part::PropertyGeometryList" status="67108864">
       <GeometryList count="3">
-        <Geometry  type="Part::GeomLineSegment" id="-1" ref="" refIndex="-1" flags="0">
-          <Construction value="1"/>
+        <Geometry type="Part::GeomLineSegment" id="-1" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="-1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension"/>
+          </GeoExtensions>
           <LineSegment StartX="0" StartY="0" StartZ="0" EndX="1" EndY="0" EndZ="0"/>
+          <Construction value="0"/>
         </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="-2" ref="" refIndex="-1" flags="0">
-          <Construction value="1"/>
+        <Geometry type="Part::GeomLineSegment" id="-2" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="-2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension"/>
+          </GeoExtensions>
           <LineSegment StartX="0" StartY="0" StartZ="0" EndX="0" EndY="1" EndZ="0"/>
+          <Construction value="0"/>
         </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="1" ref="Fillet002.;#508;:T1914:4:E" refIndex="-1" flags="0">
-          <Construction value="1"/>
+        <Geometry type="Part::GeomLineSegment" id="1" ref="Fillet002.;#508;:T1914:4:E" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Fillet002.;#508;:T1914:4:E"/>
+          </GeoExtensions>
           <LineSegment StartX="-60" StartY="39" StartZ="0" EndX="60" EndY="39" EndZ="0"/>
+          <Construction value="0"/>
         </Geometry>
       </GeometryList>
     </Property>
@@ -60,30 +72,45 @@
         <Link obj="Fillet002" sub="Edge5" shadow=";#508;:T1914:4:E.Edge5"/>
       </LinkSubList>
     </Property>
+    <Property name="FullyConstrained" type="App::PropertyBool" status="218103808">
+      <Bool value="false"/>
+    </Property>
     <Property name="Geometry" type="Part::PropertyGeometryList" status="8192">
       <GeometryList count="4">
-        <Geometry  type="Part::GeomLineSegment" id="2" ref="" refIndex="-1" flags="0">
-          <Construction value="0"/>
+        <Geometry type="Part::GeomLineSegment" id="2" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="-60" StartY="39" StartZ="0" EndX="60" EndY="39" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="3" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="3" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="3" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="60" StartY="39" StartZ="0" EndX="60" EndY="42" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="4" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="4" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="4" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="60" StartY="42" StartZ="0" EndX="-60" EndY="42" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="5" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="5" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="5" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="-60" StartY="42" StartZ="0" EndX="-60" EndY="39" EndZ="0"/>
+          <Construction value="0"/>
         </Geometry>
       </GeometryList>
     </Property>
     <Property name="Label" type="App::PropertyString" status="134217728">
       <String value="Sketch005"/>
     </Property>
-    <Property name="Label2" type="App::PropertyString" status="67108992">
+    <Property name="Label2" type="App::PropertyString" status="128">
       <String value=""/>
     </Property>
     <Property name="MapMode" type="App::PropertyEnumeration">

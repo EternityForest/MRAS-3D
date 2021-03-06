@@ -6,7 +6,7 @@
     <Extension type="Part::AttachExtension" name="AttachExtension">
     </Extension>
   </Extensions>
-  <Properties Count="18" TransientCount="1">
+  <Properties Count="19" TransientCount="1">
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AttacherType" type="App::PropertyString" status="8">
       <String value="Attacher::AttachEnginePlane"/>
@@ -54,13 +54,21 @@
     </Property>
     <Property name="ExternalGeo" type="Part::PropertyGeometryList" status="67108864">
       <GeometryList count="2">
-        <Geometry  type="Part::GeomLineSegment" id="-1" ref="" refIndex="-1" flags="0">
-          <Construction value="1"/>
+        <Geometry type="Part::GeomLineSegment" id="-1" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="-1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension"/>
+          </GeoExtensions>
           <LineSegment StartX="0" StartY="0" StartZ="0" EndX="1" EndY="0" EndZ="0"/>
+          <Construction value="0"/>
         </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="-2" ref="" refIndex="-1" flags="0">
-          <Construction value="1"/>
+        <Geometry type="Part::GeomLineSegment" id="-2" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="-2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension"/>
+          </GeoExtensions>
           <LineSegment StartX="0" StartY="0" StartZ="0" EndX="0" EndY="1" EndZ="0"/>
+          <Construction value="0"/>
         </Geometry>
       </GeometryList>
     </Property>
@@ -68,90 +76,150 @@
       <LinkSubList count="0">
       </LinkSubList>
     </Property>
+    <Property name="FullyConstrained" type="App::PropertyBool" status="218103808">
+      <Bool value="false"/>
+    </Property>
     <Property name="Geometry" type="Part::PropertyGeometryList" status="8192">
       <GeometryList count="19">
-        <Geometry  type="Part::GeomCircle" id="9" ref="" refIndex="-1" flags="0">
-          <Construction value="0"/>
+        <Geometry type="Part::GeomCircle" id="9" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="9" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <Circle CenterX="0" CenterY="40" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="5.345481"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="10" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="10" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="10" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="0" StartY="32.530674" StartZ="0" EndX="-3.738105" EndY="22.06532" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="11" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="11" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="11" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="-3.738105" StartY="22.06532" StartZ="0" EndX="3.349198" EndY="22.06532" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="12" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="12" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="12" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="3.349198" StartY="22.06532" StartZ="0" EndX="0" EndY="32.530674" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="13" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="13" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="13" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="8.881784197001252e-16" StartY="47.963764" StartZ="0" EndX="-3.406919" EndY="56.508263" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="14" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="14" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="14" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="-3.406919" StartY="56.508263" StartZ="0" EndX="3.216725" EndY="56.508263" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="15" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="15" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="15" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="3.216725" StartY="56.508263" StartZ="0" EndX="8.881784197001252e-16" EndY="47.963764" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="16" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="16" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="16" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="-6.586271" StartY="44.18829" StartZ="0" EndX="-12.613785" EndY="52.467846" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="17" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="17" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="17" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="-12.613785" StartY="52.467846" StartZ="0" EndX="-16.389263" EndY="46.970222" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="18" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="18" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="18" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="-16.389263" StartY="46.970222" StartZ="0" EndX="-6.586271" EndY="44.18829" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="19" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="19" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="19" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="-7.049478" StartY="36.790936" StartZ="0" EndX="-17.081247" EndY="35.739212" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="20" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="20" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="20" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="-17.081247" StartY="35.739212" StartZ="0" EndX="-14.269701" EndY="29.668816" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="21" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="21" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="21" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="-14.269701" StartY="29.668816" StartZ="0" EndX="-7.049478" EndY="36.790936" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="22" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="22" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="22" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="5.733709" StartY="34.782715" StartZ="0" EndX="12.588854" EndY="25.72029" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="23" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="23" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="23" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="5.733709" StartY="34.782715" StartZ="0" EndX="17.301837" EndY="32.82677" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="24" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="24" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="24" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="12.588854" StartY="25.72029" StartZ="0" EndX="17.301837" EndY="32.82677" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="25" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="25" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="25" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="7.189164" StartY="43.343945" StartZ="0" EndX="12.781934" EndY="50.762794" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="26" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="26" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="26" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="12.781934" StartY="50.762794" StartZ="0" EndX="17.523798" EndY="43.87420299999999" EndZ="0"/>
-        </Geometry>
-        <Geometry  type="Part::GeomLineSegment" id="27" ref="" refIndex="-1" flags="0">
           <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="27" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="27" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
           <LineSegment StartX="17.523798" StartY="43.87420299999999" StartZ="0" EndX="7.189164" EndY="43.343945" EndZ="0"/>
+          <Construction value="0"/>
         </Geometry>
       </GeometryList>
     </Property>
     <Property name="Label" type="App::PropertyString" status="134217728">
       <String value="Sketch008"/>
     </Property>
-    <Property name="Label2" type="App::PropertyString" status="67108992">
+    <Property name="Label2" type="App::PropertyString" status="128">
       <String value=""/>
     </Property>
     <Property name="MapMode" type="App::PropertyEnumeration">
